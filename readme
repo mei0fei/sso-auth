@@ -1,0 +1,8 @@
+单点登录--认证服务
+使用jwt， springboot技术
+
+开发工具， spring tools
+
+单点登录--资源服务
+参考： sso-resource
+
